@@ -1,3 +1,3 @@
 FROM golang:latest
-RUN mkdir /go/src/work
-WORKDIR /go/src/work
+RUN mkdir /go/work
+WORKDIR /go/work
